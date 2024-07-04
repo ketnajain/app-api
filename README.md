@@ -1,2 +1,2 @@
 # app-api
-new projec
+new project
